@@ -1,0 +1,2 @@
+Contains a Makefile used to compile all C++ files to run the program, all files include, Platforms. h as header file, playableRec.cpp as playable character class, movingPlatform.cpp as moving paltform class, main.cpp as the main class, landPlatform as class for stationary platform, a bird image in a folder called res as well a timeline class as well as all event classes. 
+To run the program for all parts, just do make, ./gameServer and on separate terminals, ./gameClients 
